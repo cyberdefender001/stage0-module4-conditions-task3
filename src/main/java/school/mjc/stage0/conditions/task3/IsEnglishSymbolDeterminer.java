@@ -7,7 +7,7 @@ public class IsEnglishSymbolDeterminer {
             case 'b':
             case 'c':
             case 'd':
-            case 'i':
+            case 'e':
             case 'f':
             case 'g':
             case 'h':
