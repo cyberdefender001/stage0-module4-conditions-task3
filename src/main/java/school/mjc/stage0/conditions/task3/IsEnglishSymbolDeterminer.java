@@ -1,7 +1,7 @@
 package school.mjc.stage0.conditions.task3;
 
 public class IsEnglishSymbolDeterminer {
-    public static void vowelDeterminer(char character) {
+    public static void isEnglishSymbol(char character) {
         switch (character) {
             case 'a':
             case 'b':
