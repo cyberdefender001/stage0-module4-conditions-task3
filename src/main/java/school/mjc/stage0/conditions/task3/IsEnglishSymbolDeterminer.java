@@ -64,7 +64,5 @@ public class IsEnglishSymbolDeterminer {
         
         }
     }
-    public static void main(String[] args) {
-        vowelDeterminer('a');
-    }
+   
 }
